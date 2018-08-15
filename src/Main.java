@@ -15,7 +15,7 @@ public class Main {
 			m[2]= new Marks(70,90,50,80);
 			m[3]= new Marks(80,60,80,80);
 
-			
+		System.out.println("Hello");
 		System.out.println(Arrays.toString(m));
 	}
 	
